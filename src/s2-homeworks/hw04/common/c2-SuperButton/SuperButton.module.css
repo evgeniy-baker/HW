@@ -4,14 +4,14 @@
     margin-right: 15px;
     border-radius: 3px;
     border: 1px solid #0066CC;
-    color: #0066CC;
-    background-color: white;
 }
 
 .disabled {
 }
 
 .secondary {
+    color: #0066CC;
+    background-color: white;
 }
 
 .default {
@@ -32,7 +32,6 @@
     color: white;
     background-color: #0066CC;
 }
-
 
 .default:active {
 }
