@@ -1,6 +1,6 @@
 .friendMessage {
     display: flex;
-    justify-content: flex-start;
+    margin-bottom: 70px;
 }
 
 .friendImageAndText {
@@ -10,6 +10,7 @@
 .friendImageAndText img {
     width: 48px;
     height: 48px;
+
 }
 
 .friendText {

@@ -1,9 +1,11 @@
 .message {
     display: flex;
-    justify-content: flex-end;
+
+    margin-bottom: 55px;
 }
 
 .imageAndText {
+    flex-direction: row-reverse;
     display: flex;
 }
 
