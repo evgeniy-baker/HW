@@ -1,4 +1,5 @@
 .input:focus {
+
 }
 
 .input {
@@ -9,16 +10,25 @@
 }
 
 .inputWrapper {
+    display: flex;
+    flex-direction: column-reverse;
 }
 
 .superInput {
+    padding: 15px;
+    font-size: 16px;
 }
 
 .errorInput {
+    border: 1px solid red;
 }
 
 .errorInput:focus {
+
 }
 
 .error {
+    margin-bottom: 5px;
+    font-size: 10px;
+    color: red;
 }

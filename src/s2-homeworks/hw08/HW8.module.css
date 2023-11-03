@@ -7,17 +7,17 @@
 }
 
 .users {
-    position: absolute;
-    width: 606px;
-    height: 36px;
-
+    text-align: center;
+    /*position: absolute;*/
+    width: 500px;
+    height: 35px;
+    border-collapse: collapse;
 }
 
 .buttonsContainer {
     display: flex;
     margin-bottom: 18px;
-    margin-left: 307px;
-
+    /*margin-left: 307px;*/
 }
 
 .container {
@@ -26,6 +26,7 @@
 
 .thead {
     background-color: #E5E5E5;
+    font-weight: 600;
 }
 
 .nameCol {

@@ -1,12 +1,11 @@
 .sendForm {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    /*align-items: center;*/
 }
 
 .textarea {
-    padding: 10px;
-    margin-right: 45px;
+    padding: 15px;
     resize: none;
     overflow: hidden;
     min-width: 975px;
@@ -14,11 +13,13 @@
     background-color: #F5F7FB;
     border-radius: 20px;
     border: none;
+    font-size: 16px;
+    margin-right: 15px;
 }
 
 .button {
-    width: 120px;
-    height: 40px;
+    min-width: 120px;
+    min-height: 40px;
     background: #0066CC;
     color: #FFFFFF;
     border-radius: 20px;
