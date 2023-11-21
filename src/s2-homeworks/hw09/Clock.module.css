@@ -2,13 +2,21 @@
 }
 
 .clock {
+    font-weight: 400;
+    font-size: 20px;
 }
 
 .watch {
+    margin-bottom: 10px;
 }
 
 .watch strong {
+    font-weight: 600;
 }
 
 .more {
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 50%;
+    margin-bottom: 30px;
 }
